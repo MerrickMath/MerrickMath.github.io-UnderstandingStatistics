@@ -10,9 +10,9 @@ In this class we will be exploring real world data, creating reports, presentati
 For the first class you may attempt any of the following activites: 
 <p>
       <ul>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-UnderstandingStatistics/challenge1.html"> The Road Mordor </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge1.html"> The Road Mordor </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge </a> </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-UnderstandingStatistics/challenge2.html"> Exploratory Data Analysis </a> </li>
+        <li><a href="https://merrickmath.github.io/MerrickMath.github.io-UnderstandingStatistics/challenge2.html"> Exploratory Data Analysis </a> </li>
       </ul>
 </p>
 
