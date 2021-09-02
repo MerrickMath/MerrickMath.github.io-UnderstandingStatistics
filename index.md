@@ -13,6 +13,7 @@ For the first class you may attempt any of the following activites:
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor </a> </li>
         <li><a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Exploratory Data Analysis </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/FirstDayChallenge2.html"> Exploratory Data Analysis </a> </li>
       </ul>
 </p>
 
