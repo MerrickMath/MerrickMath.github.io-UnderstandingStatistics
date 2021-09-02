@@ -1,4 +1,4 @@
-## Exploring the World of Data (? XP) 
+## Exploring the World of Data
 
 Why should we learn data science? Before next weeks class please read <a href="https://towardsdatascience.com/5-reasons-why-you-should-begin-your-data-science-journey-in-2020-2b4a0a5e4239"> this article</a>.
 
